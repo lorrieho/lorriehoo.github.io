@@ -1,4 +1,3 @@
-# lorriehoo.github.io
 <html>
 
 <body>
